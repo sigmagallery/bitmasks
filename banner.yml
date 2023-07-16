@@ -1,15 +1,15 @@
-title: 
+title: Bitmasks
 description: 
-image: https://ipfs.io/ipfs/
+image: https://gateway.ipfs.io/ipfs/bafybeicw2cwxk36n3unebbezctjycfrlvpqqu5vcwy5fh7hn2ittggkww4
 mintAddresses:
-  - 
+  - 9gndUQiimtTFLS95wbzS1Qt6poTg9UK5XuPkbCx4K9YFx57AvH3
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/BitmasksIO
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/bitmasks
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://bitmasks.io/
     icon: fa-solid fa-globe fa-fw
