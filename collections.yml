@@ -11,5 +11,7 @@ collections:
   data: nostromogenesis.yml
 - label: Shima Genesis
   data: shimagenesis.yml
+- label: Sweets Genesis
+  data: sweetsgenesis.yml
 - label: Zk Genesis
   data: zkgenesis.yml
