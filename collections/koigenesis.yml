@@ -8,10 +8,6 @@ nfts:
     https://bitmasks.io/
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreiaklujdfqhz5xudjxcxljpjtwffnzveefxhzgjruh2oxsw6m54twy
-- tokenId: 7491e3141d7d285fdfd39c38072bbf7dc3e75bc2f2a55cd844f9c0d07afd3f4d
-  name: 'Koi Genesis #1'
-  description: Gen0 Koi Bitmask
-  imageUrl: https://i.ibb.co/MpSw2D8/Koi-Genesis1.png
 - tokenId: e2b99a5765ac6b24e6de393dbed3128f665d650d657a86c61c7bd4d459c6db8f
   name: 'Koi Genesis #2'
   description: |-
@@ -30,10 +26,6 @@ nfts:
     https://bitmasks.io/
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreidhas6c2oyd2katwk3jn4dn4gmp4nivtoaujigk7t2ujidl6rruja
-- tokenId: dbc455ea60adcb8df4ece4f4066760ce7c558c6b69f076f3885e4cd4fe545dc2
-  name: 'Koi Genesis #3'
-  description: Gen0 Koi Bitmask
-  imageUrl: https://i.ibb.co/wzmqRqG/Koi-Genesis3.png
 - tokenId: 1791ffa23cfcc25aed9dc67d895b46409f6ed1a058f7b3a112637dfbd4fb47b7
   name: 'Koi Genesis #4'
   description: |-
@@ -61,10 +53,6 @@ nfts:
     https://bitmasks.io/
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreifqa2m5gtrej7g3hepsqyowvmsbma5iohlshhfzj6bulclc3zf7pi
-- tokenId: f6a8efc7824e6361ebb1c40e23c571f0bd591b12700ba8134f8084ecf1759c4c
-  name: 'Koi Genesis #5'
-  description: Gen0 Koi Bitmask
-  imageUrl: https://i.ibb.co/1zvJfKJ/Koi-Genesis5.png
 - tokenId: 4ce812d212d5331579ed2585ad46c17e3a20b047e835c9dd3cf82642518a7cd0
   name: 'Koi Genesis #6'
   description: |-
@@ -92,10 +80,6 @@ nfts:
     https://bitmasks.io/
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreie7qypjqfmbqygjc3n5t6p6m7emmqgkil6xm34gsyuaj7np3gpzzu
-- tokenId: 96baef6a5ad3eb0ef061e3d8de17a599ffdcccdef12b9170f4eb0d69aaa76e2f
-  name: 'Koi Genesis #7'
-  description: Gen0 Koi Bitmask
-  imageUrl: https://i.ibb.co/c6y6ftw/Koi-Genesis7.png
 - tokenId: 08af6d6d64f8b75d2e79faa35e938f16e5a7da8a8af289f363bbad7a6dc65d26
   name: 'Koi Genesis #8'
   description: |-
