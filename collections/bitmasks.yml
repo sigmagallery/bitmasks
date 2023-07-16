@@ -1,4 +1,427 @@
 nfts:
+- tokenId: 5c2cfa0ba4b39296e3d2bd2d345e92ae6aed587c2e5a40ef280cbd94703db9f6
+  name: 'Ibis Genesis #3'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihckvix4orlepdeu4enfj3tgewrukyop662743cvd6shio77f7leu
+- tokenId: e77cc6e1b9a296b0777c4fd9f93a0e173d031070aaf3702cace71350ca786cce
+  name: 'Zk Genesis #8'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidhmyy7zno5tgz3353kapgkzt6ybziv2kmhdae3o4dkfklficinfi
+- tokenId: fdb74ff4b75836267cc3ca9a6c163770d263429b6a48e9ecfd6a83d4c60b14c6
+  name: 'Ibis Genesis #2'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreid5coifaogsibuma53uigegkjkgomx7yh2eqfnjcmd7k7ych2nwc4
+- tokenId: 93f0819ecf800e396107a47d5ff5ca38f6b6598d9d71987ff03356bc49c8d766
+  name: 'Koi Genesis #5'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifqa2m5gtrej7g3hepsqyowvmsbma5iohlshhfzj6bulclc3zf7pi
+- tokenId: 0b0304fac8121bc041d467574a0817ca80e31a709b0096330854ec9239c07130
+  name: 'Zk Genesis #1'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidxrpcyrvvrnyescckcs6llydpxczzc77sl3zzqberzno3zjwkdpe
+- tokenId: 4ce812d212d5331579ed2585ad46c17e3a20b047e835c9dd3cf82642518a7cd0
+  name: 'Koi Genesis #6'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiedaxjb35chx2xn66o2njqjpna662oipuq4mh2fqhsfjfvh3ihghy
+- tokenId: 038d3c30b05cce266bf672528c5f12c4ddab404da5c7ec089f1efd4aa78e9900
+  name: 'Carmilla Genesis #8'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifvl5pnihmt3h5qc7cruermtm6nqca4onrwdhv7n4eyn254yjec3i
+- tokenId: 8c5d4ed4d6621a1fecbc2bd6d14ae2bc55666b935cf56eeec6769b3adca8b446
+  name: 'Carmilla Genesis #1'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiezendj2i3r5ar7yvgjtr2i5rpc6qu2ysoxfz6ynbb5wovc4wqjdi
+- tokenId: 5ed2353b47518511e5632933f5a6e08e91f4711446058142fdd8d201cd50409e
+  name: 'Ibis Genesis #5'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigtugdice4q5t5tvjul27lgpoiyqikx4vrj6wo5rymbpxoc2w5ufi
+- tokenId: 77d9d5ac5d2c67717b507f48d0a1c8500f01fcc7044e78a0afd40569c2115cac
+  name: 'Zk Genesis #4'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidid4b7x7dhrn2jnzswd2asbal3np6fveonnad4nzpwdw53zaeqfm
+- tokenId: 08af6d6d64f8b75d2e79faa35e938f16e5a7da8a8af289f363bbad7a6dc65d26
+  name: 'Koi Genesis #8'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiawjtbp2m43ym6b2jsgff4t2vqalzdsmjjqaiijdh4k3w4yoth3ua
+- tokenId: 2e2695ed61f24f58f9e1364c9f08b9d573291e97ad93ad50d2294bd93c08e050
+  name: 'Zk Genesis #5'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiejoapp5ux22ctwrwmagutl7ov6lmnexj5mpemznyf5ug2cc74coa
+- tokenId: 6d1a5d5f892a1e750d1949664a9c48c07861b8548a35d3fac4d7eaa2a1e51662
+  name: 'Ibis Genesis #7'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigi7vzwb6hgmsq4srkxw2zz7lrcak2cyonj7n3hso5gx4yjw6iu3a
+- tokenId: 36f3603f6ca75d9c3a45908fb248b65fcd45d187719e7e96b5a0fc1ddd709098
+  name: 'Nostromo Genesis #4'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigz5lub7nlsfrilswmin4vgfnu4czylr2ufw325dddmlftw3ojp3y
+- tokenId: af4d22d8db4611bfb5218b321c6e3d1e61c91c2bb4fed57c57c31caa21db140f
+  name: 'Ibis Genesis #8'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihfox7agzsuymtkwpbcj5uvfh73xivcuii4jnkznsyl5vsvh5kokq
+- tokenId: 88f2aa5c382deddac8fd9d6c09c75448bfdb1b124577491f686038574bdabb89
+  name: 'Ibis Genesis #1'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidpz4fl3cume552663wojuwytirrs4jyx67ilsrbmtlhbjrvzvmmy
+- tokenId: 5ba89b31c62f930b4151c01a2e07c2e5a0f1905f6e204cd7fe7977a10096ec71
+  name: 'Koi Genesis #3'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidhas6c2oyd2katwk3jn4dn4gmp4nivtoaujigk7t2ujidl6rruja
+- tokenId: 71abc134e6567489c6db08194cdbb18c0e73dda16fbb7bd4c2364611cc099f02
+  name: 'Zk Genesis #2'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiads3aravlrntndrf3ciogddbtg6s5vrqxavatgjtqn5o4ymrodzu
+- tokenId: 9581d29ccbc2d9d56d2cb2c2350826b6f462ee98bf7bf21686e67904878f8410
+  name: 'Carmilla Genesis #2'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihytw74jlp56t6lc6e5e7d4mptam7khi7mw654a3pbf6nfrhamjca
+- tokenId: b3c0162cd49031512c6ccad296b8c3cb64efd2e0452dadf3417e8549f3385c11
+  name: 'Nostromo Genesis #7'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreif5klsioujgfjpypwkjemaehsplvtdoqhhiryjidrnp22mxcsuwmq
+- tokenId: 5a5647c95142a7bc7437b7bcfed21731f17b69c1a194351861062d93088e433b
+  name: 'Nostromo Genesis #2'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidjb764shwsf2uvxcmd67bgu5cectr2ktueqxx7uzzv66pvitynzy
+- tokenId: cda4c406695ef0c126feffe4ad267e0fca61d354a85b5cc1bb255cbe2dbd8466
+  name: 'Ibis Genesis #6'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreigeixq2qt5bfomddk7j5ck5su6cywkmyd6n3yudjkhaqmbgemkz2u
+- tokenId: 3b5193c952c00d283c40d894bd4b1d50edc1cf90f74973f09886106ae0899bea
+  name: 'Nostromo Genesis #1'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibchzc7abbvcjuv5w6lmxgphxevhc2u6swvimsbny246bdkouslaa
+- tokenId: 774a7b5c45dc916033614ba32cbb433c108d8f2b15667f4d81d64d42425e4214
+  name: 'Nostromo Genesis #3'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreib7on44spn46ej4gd2c5p6vpf5nqzeykg5knpstfjhu2rxtzht4wa
+- tokenId: e2b99a5765ac6b24e6de393dbed3128f665d650d657a86c61c7bd4d459c6db8f
+  name: 'Koi Genesis #2'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreib4qvtmrrlkwvpsvjm72cpjdxo4xrclhskadgdjl7cyx3sdt7jnh4
+- tokenId: 27e8585b32111ac5e170536824a8126679585ae50f5c98dc3a1c9928cad0d280
+  name: 'Zk Genesis #3'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreib6vpszunrt45lnjisk2utssaietqg6kcszj2mknrl3y6xt7btfni
+- tokenId: c23caf0655b558ac4031bc248173ed4e56f6a92753cc53e79bd55589c20dbd0e
+  name: 'Zk Genesis #6'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreievk6jkorud5e6dsisw2oedory3h2fclnbshlcxczpmxzbuzjqnga
+- tokenId: a4fbc256ab583017954dd9f9886f10f179f4ca36bf4978aaa708384928f963d7
+  name: 'Nostromo Genesis #6'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifeublwrvlvnod2cch2pndv5zrgenomgeg6xbtbuqgogujvwa6b7y
+- tokenId: c207d68d6b36a7be97b87fc8a192ed3c26e82cda2e050f1cd5ff36b13efc8285
+  name: 'Carmilla Genesis #4'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiabt3n55hwssdy6bxxqxejm2z2jgq5i7r2bz4p3zpi76oj5vum3u4
+- tokenId: 2a4c63771f1673b69a27d5742b85e57c2552551c693f1398a5477e0732f76a0d
+  name: 'Nostromo Genesis #5'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifcvbjqefxuyw5anipgv5oukwqa67lbhieoay3kkl42glvfyrhbwq
+- tokenId: 55e578f60e8036ed535810fb0a6c480b084b6aeaf4df320ab4a70f762c6ef1d1
+  name: 'Zk Genesis #7'
+  description: |-
+    Zk Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihmtkxskc6b43myh6w34e7ojiwi7waepo6tgcp7aofrnrx7qh7ufu
+- tokenId: cf07ea22f6b1c2d2a1f4613ef265df992a5e14d69440e83a1997dbbf0483579e
+  name: 'Shima Genesis #6'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiab53czqpv5zl4d6y7cxmjs6hpvzmwkfioa6j6bcgbdkdoijiilja
+- tokenId: 41ab0fa0fa90cfc26fde41347302bd61ef1460bc0abec0ac370ac781e6887da0
+  name: 'Shima Genesis #1'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifodc63qzxtsdjqcm5btchap3cgxys74ymcwzl5euassc7e326fom
+- tokenId: b92b11f2c4b493f20ef8f0a9e215eca60a03121f904bb32c5fa7d9d8f76c4994
+  name: 'Shima Genesis #2'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihxxytk7ittsg4vqsnblvv2pow3xgqoulkynmze6tdn2va2v5i57y
+- tokenId: 6a82b63b2d5b0754a8958cdcf11b4b2b4d9790ce6c77370d999faac781e240d3
+  name: 'Nostromo Genesis #8'
+  description: |-
+    Nostromo Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibd2qmfxzudr6bonpwokjug7komovcdy5j23ettxl4f3yrmgsf4tm
+- tokenId: 8957a31b293bea8a6dbc072cd1775407602b349a5b6b5a17f0ddb8feb911eeeb
+  name: 'Shima Genesis #5'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiglvfd3uetgsxcp6wuu37ddx57do2af5dzlzwx6q435xs3x2zj4mm
+- tokenId: 1536e22e854386e28f03c1b6107883ef69a3e1342609c4f63409bd110c7969f8
+  name: 'Shima Genesis #7'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibaq4tue7s4lat35knzlxamn6kvritpfvodcltizdbhmjk6uioxgm
+- tokenId: 464c30631c4e76fb25b271b2e3026c7dd5e4bffd7a07b2646385000eb1dcccb5
+  name: 'Carmilla Genesis #7'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibf63fejcgcpgopxagzp4v4s2wppsjllb5fzj7cacbaf7x7d7wrxe
+- tokenId: 6a751d1f34bd1adcc8ff8107b001779c481e06267537c8bf33adc4251d4d2711
+  name: 'Carmilla Genesis #5'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihpqobzio7zhssqnlo44cqs2ongqqngrx4ppsrja6hmw5lw3qxoai
+- tokenId: cd85473eb4d614a1ecece6095aba7e823d2bb468d5c3b679ffb2fcfc07f124d9
+  name: 'Koi Genesis #1'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaklujdfqhz5xudjxcxljpjtwffnzveefxhzgjruh2oxsw6m54twy
+- tokenId: d679c8f27e1d1fd21dc4203fc7ed9c511871c0b5ceb58717d8f6f9dd7ef97d13
+  name: 'Shima Genesis #8'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreia7oc2hqyu6adzbco3zwq7sh36oahlrz2ogq6u2jn4svdv6f7bvia
+- tokenId: 73c455cb7b9d7fe1b54083acf69230c5d992ca80665e1dcd70cd48594e4f20f4
+  name: 'Shima Genesis #3'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreife43dz5yxugqqtlxce2mzagcmjeperb4iz76mdduanpux6adr22u
+- tokenId: 9966f72a626b5d3ae27db7b619d0a72d9cef571d6777ab952b59520b5b68c335
+  name: 'Carmilla Genesis #3'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihucpdjvyk6xtsjbx5phh4g2rqzujaea6hgzjvd5zx4lngijotjci
+- tokenId: b9255a2aafe0d90e5fbd242b6ce732e9e29c1b5e4f98c5144b9aaf38b39174c2
+  name: 'Koi Genesis #7'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreie7qypjqfmbqygjc3n5t6p6m7emmqgkil6xm34gsyuaj7np3gpzzu
+- tokenId: cf3c5df804ac9423684ccc70c173259b743f37966b1eab9d08f2df46efb8677b
+  name: 'Carmilla Genesis #6'
+  description: |-
+    Carmilla Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidmoxyqfpzzvshucglijzby6ll7hcsv6hchqsnycjskwwneyfi2dy
+- tokenId: 3794b83f0375bdff2ed0e1d328c1ecd1707c5d2fc1be7094356f4143b7fd1ff2
+  name: 'Ibis Genesis #4'
+  description: |-
+    Ibis Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicqjp4yob25a6jacqcp3zurqapxknjwuolawcj2zmn33ebvals7ei
+- tokenId: f330ebfd74c48531d6c8241e931b52670c473828c76a1d35103d4a0dac1973eb
+  name: 'Shima Genesis #4'
+  description: |-
+    Shima Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiegfongs7hxumkabdow7srs5xeqlyme6ppv3u7hrikdr4rfzv67zu
 - tokenId: 1061f02a5c9fdb37a5b243a76b9c236dd80a5a3df6e823240dd2af0868dc0505
   name: 'Bitmask #9'
   description: '{"721":{"Bitmask #9": {"Name": "Bitmask #9","Gen": 1}}}'
