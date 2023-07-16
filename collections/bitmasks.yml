@@ -1,4 +1,22 @@
 nfts:
+- tokenId: 1791ffa23cfcc25aed9dc67d895b46409f6ed1a058f7b3a112637dfbd4fb47b7
+  name: 'Koi Genesis #4'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiei5qh5ch52ps3sz2hu76n47l2ehgyqro63jovn7tiofr3w2xd7d4
+- tokenId: 49b1597bf24de1994dacf1800f5b2035fae9c0c61887a7f8ac0e162d75669bdc
+  name: 'Koi Genesis #4'
+  description: |-
+    Koi Genesis
+    Ergo Genesis Bitmasks
+
+    https://bitmasks.io/
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibqrphe2hvgxq46mdj3dwmuj6qeumn2fmepfnxq27gk4a4sbamunq
 - tokenId: 5c2cfa0ba4b39296e3d2bd2d345e92ae6aed587c2e5a40ef280cbd94703db9f6
   name: 'Ibis Genesis #3'
   description: |-
