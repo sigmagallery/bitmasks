@@ -1,17 +1,3 @@
 collections:
 - label: Bitmasks
   data: bitmasks.yml
-- label: Carmilla Genesis
-  data: carmillagenesis.yml
-- label: Ibis Genesis
-  data: ibisgenesis.yml
-- label: Koi Genesis
-  data: koigenesis.yml
-- label: Nostromo Genesis
-  data: nostromogenesis.yml
-- label: Shima Genesis
-  data: shimagenesis.yml
-- label: Sweets Genesis
-  data: sweetsgenesis.yml
-- label: Zk Genesis
-  data: zkgenesis.yml
