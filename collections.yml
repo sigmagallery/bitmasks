@@ -1,3 +1,4 @@
 collections:
 - label: Bitmasks
   data: bitmasks.yml
+  image: https://bitmasks.io/img/Bitmask33.png
