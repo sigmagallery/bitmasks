@@ -2,4 +2,4 @@ collections:
 - label: Bitmasks
   data: bitmasks.yml
   image: https://bitmasks.io/img/Bitmask33.png
-  description: Born on Ergo Bitmasks were inspired by CryptoKitties. NFTs have a great visual variety (over 100 trillion possible combinations), hidden collections and mutations, expanding cross-chain. Breeding available on Ergo, Genesis Creatures are minted on: Ergo, Cardano, Bitcoin (sub 100k).
+  description: "Born on Ergo Bitmasks were inspired by CryptoKitties. NFTs have a great visual variety (over 100 trillion possible combinations), hidden collections and mutations, expanding cross-chain. Breeding available on Ergo, Genesis Creatures are minted on: Ergo, Cardano, Bitcoin (sub 100k)."
